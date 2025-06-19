@@ -49,7 +49,7 @@
 
 ## 📌 About Me  
 - 🎓 B.Tech Student at Graphic Era Hill University  
-- 💪 Preparing for CDS & AFCAT  
+- 💪 Preparing for GATE , CDS & AFCAT 
 - 📚 Interested in Cybersecurity, Web Development, and Anime  
-- 💻 Love building CLI tools and fun projects
+- 💻 Love learning new things
 
