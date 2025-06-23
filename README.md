@@ -1,5 +1,5 @@
 <h2 align="left">Hi There 👋! My name is Bhupesh Negi from India and I'm a 
-  🚀 Web Developer | 📱 Tech Enthusiast | 🎯 Future Defence Officer
+  🚀 Web Developer | 📱 Tech Enthusiast
 Passionate about building projects, learning new tech, and chasing challenges beyond the screen</h2>
 
 ---
